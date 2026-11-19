@@ -1,5 +1,9 @@
 # The World in One Day — Thursday, 19 November 2026
 
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/Jeytm/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/Jeytm/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+
 A one-image newspaper front page summing up Thursday 19 November 2026,
 drawn entirely in code with Pillow (`render.py`). `main.py` (standard library
 only) copies `entry.png` to `$MAKEFUN_OUTPUT_DIR`.
